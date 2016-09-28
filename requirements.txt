@@ -1,0 +1,7 @@
+oauth2client==3.0.0
+oauthlib==1.1.2
+google-api-python-client==1.5.3
+dnspython==1.14.0
+gspread==0.4.1
+simplejson==3.8.2
+validate-email==1.3
